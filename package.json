@@ -1,7 +1,7 @@
 {
   "name": "chottokiku",
   "version": "0.3.0",
-  "description": "ChatGPTにちょっと訊くNoje.jsコマンド",
+  "description": "ChatGPTにちょっと訊くNode.jsコマンド",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
