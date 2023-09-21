@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/butchi/chottokiku#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "openai": "^4.8.0"
   }
 }
