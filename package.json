@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/butchi/chottokiku/issues"
   },
-  "homepage": "https://github.com/butchi/chottokiku#readme"
+  "homepage": "https://github.com/butchi/chottokiku#readme",
+  "dependencies": {
+    "openai": "^4.8.0"
+  }
 }
