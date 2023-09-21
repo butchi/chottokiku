@@ -22,4 +22,6 @@ response.then(json => {
     const outputTxt = json?.choices?.[0].message?.content
 
     console.log(outputTxt)
+
+    console.info("※ 本プログラムはサービスの永続性を保証するものではありません")
 })
