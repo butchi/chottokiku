@@ -23,5 +23,5 @@ response.then(json => {
 
     console.log(outputTxt)
 
-    console.info("※ 本プログラムはサービスの永続性を保証するものではありません")
+    // console.info("※ 本プログラムはサービスの永続性を保証するものではありません")
 })
