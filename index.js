@@ -1,9 +1,7 @@
 #!/usr/bin/env node
-require("dotenv").config()
-
 const OpenAI = require("openai")
 
-let apiKey = process.env.OPENAI_API_KEY
+const apiKey = "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"
 
 const inputTxt = process.argv[2]
 
