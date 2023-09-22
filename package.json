@@ -1,6 +1,6 @@
 {
   "name": "chottokiku",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "description": "ChatGPTにちょっと訊くnodeコマンド",
   "bin": {
     "chottokiku": "./index.js"
