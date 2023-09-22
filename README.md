@@ -1,2 +1,2 @@
 # chottokiku
-ChatGPTにちょっと訊くNoje.jsコマンド
+ChatGPTにちょっと訊くnodeコマンド
