@@ -15,13 +15,13 @@ export const handler = async evt => {
     try {
         resJson = await openai.chat.completions.create({
             messages: [{
-                role: "user",
+                role: "system",
                 content: "返答は15文字以内、長くて85文字までの短い文章でお願いします。",
             }, {
                 role: "user",
                 content: inputTxt,
             }],
-            model: "gpt-4",
+            model: "gpt-4o",
         })
     } catch (err) {
         const response = {
